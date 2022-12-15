@@ -1,0 +1,4 @@
+Sandra={"name":"sandra", "age":52, "hobbies":["pilates", "gym", "reading", "donuts"], "wakeup":{"mon":"5am","sat":7}}
+print(Sandra["name"])
+print(len(Sandra["hobbies"]))
+print(Sandra["wakeup"]["mon"])
